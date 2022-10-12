@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "30628599131",
+    "firebase_url": "https://gentle-app-331611-default-rtdb.firebaseio.com",
+    "project_id": "gentle-app-331611",
+    "storage_bucket": "gentle-app-331611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30628599131:android:7db019ebe29411fee7b67e",
+        "android_client_info": {
+          "package_name": "com.transmodelo.conductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30628599131-ab8fnlont9ooh9fmu9funjqfeo0hita2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.transmodelo.conductor",
+            "certificate_hash": "3b7464242943ae3ca96a4d2cbebcf2a4f6389216"
+          }
+        },
+        {
+          "client_id": "30628599131-go314tjkp6kkhn51q7kgbert7lsrakb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.transmodelo.conductor",
+            "certificate_hash": "6a716629f4b7c044de11986605058c807fec9441"
+          }
+        },
+        {
+          "client_id": "30628599131-tc1igr9ginntf4co034pqfn8rk7a1s89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.transmodelo.conductor",
+            "certificate_hash": "779cac351779e887a4ba3d29e77cd799a573e929"
+          }
+        },
+        {
+          "client_id": "30628599131-84vm0i9va84uuerqlppaebph6n0ql7s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdZ7P99bcxEL2f6oKhr5fZN_TiC2weXYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30628599131-84vm0i9va84uuerqlppaebph6n0ql7s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30628599131:android:c6b1d3247c38f4cce7b67e",
+        "android_client_info": {
+          "package_name": "com.transmodelo.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30628599131-67hvr9csas09kvc7bi37ik55jc5fifsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.transmodelo.user",
+            "certificate_hash": "779cac351779e887a4ba3d29e77cd799a573e929"
+          }
+        },
+        {
+          "client_id": "30628599131-iu1vh87kqj44g71trkj0r5aaeed2up4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.transmodelo.user",
+            "certificate_hash": "c153cb8641da001365cc4266fd1307892f8a507b"
+          }
+        },
+        {
+          "client_id": "30628599131-84vm0i9va84uuerqlppaebph6n0ql7s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdZ7P99bcxEL2f6oKhr5fZN_TiC2weXYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30628599131-84vm0i9va84uuerqlppaebph6n0ql7s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

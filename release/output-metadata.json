@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.kinto.user",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 25,
+      "versionName": "2.5",
+      "enabled": true,
+      "outputFile": "com.kinto.user_V25_VN-2.5_2021-10-29.apk"
+    }
+  ]
+}
